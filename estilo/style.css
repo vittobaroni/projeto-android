@@ -43,6 +43,8 @@ header > p {
     font-size: 1.2em;
     font-family: var(--fonte-padrao);
     padding: 0px 10px;
+    margin: auto;
+    padding-bottom: 30px;
 }
 header a:hover{
     background-color: #063d1e;
